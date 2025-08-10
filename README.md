@@ -1,5 +1,5 @@
 ## Hi there 👋. Thanks for visiting SECOR's GitHub
-We are currently working on Atlas, our powerfull AI System.
+We are currently working on Atlas, our powerful AI System.
 Have fun and stay coding!
 
 
