@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋. Thanks for visiting SECOR's GitHub
+We are currently working on Atlas, our powerfull AI System.
+Have fun and stay coding!
+
 
 <!--
 **ITSecor/ITSecor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
